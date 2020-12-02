@@ -1,5 +1,5 @@
 # DOMAIN-DRIVEN DESIGN
-Anotações baseadas na série "DDD do jeito certo" da EximiaCo
+Anotações baseadas na série "DDD do jeito certo" da EximiaCo  
 https://www.youtube.com/playlist?list=PLkpjQs-GfEMN8CHp7tIQqg6JFowrIX9ve
 
 ## COMPLEXIDADE DESNECESSARIA É CUSTO!
